@@ -1,0 +1,284 @@
+<topic>
+<ID>1</ID>
+<title>what are good books about narcissistic personality disorder which satisfied and helped customers? </title>
+<explanation> Narcissistic personality disorder involves a pattern of self-centred, arrogant thinking and behaviour, a lack of empathy. The query is looking to find the most negative reviews written by users who purchased
+ very good books to help people suffering from NPD.
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star rating reviews in the 'books' division where the category is 'narcissistic personality disorder'.  
+</relevance>
+</topic>
+
+<topic>
+<ID>2</ID>
+<title>Reviews to detect poor Thermometers or Varicose Vein Remedies. </title>
+<explanation> The query is looking to find the negative reviews of Thermometers or Varicose Vein Remedies.
+</explanation>
+<relevance>
+The expected answers are 1- or 2-star rating reviews in the 'medications' and 'diagnostic and monitoring tools' where the category is 'Varicose Vein Remedies' or 'Thermometers'. 
+</relevance>
+</topic>
+
+<topic>
+<ID>3</ID>
+<title>Reviews of books about OCD in which reviewers are highly satisfied. </title>
+<explanation> Obsessive compulsive disorder (OCD) is a common mental health condition where a person has obsessive thoughts and compulsive behaviours. The query is
+ looking to find the most positive reviews commented for the books written about OCD.
+</explanation>
+<relevance>
+The expected answers are 5-star rating reviews in the 'books' division where the category is 'OCD'.  These reviews should have been shown to be helpful to at least one other user.
+</relevance>
+</topic>
+
+<topic>
+<ID>4</ID>
+<title>tablets for cold and flu.</title>
+<explanation> Capturing the positive and negative comments of the medications for cold and flue leads to a good understanding of the good and bad aspects of these products.  
+</explanation>
+<relevance>
+The expected answers are reviews in the 'medications' division where the category is 'cold and flu'.
+</relevance>
+</topic>
+
+<topic>
+<ID>5</ID>
+<title>suggest amazing books about borderline personality disorder and OCD. </title>
+<explanation> The query is looking to retrieve the positive reviews written by users who purchased books about signs, symptoms and treatments of mental health conditions including OCD and BPD.
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star reviews in the 'books' division where the category is 'personality disorder' or 'OCD'. 
+</relevance>
+</topic>
+
+<topic>
+<ID>6</ID>
+<title>What are the Side effects patients experienced from any of the medication products? </title>
+<explanation>The query is looking to retrieve the negative reviews commented for medications.
+</explanation>
+<relevance>
+The expected answers are 1 or 2s tar rating reviews in the 'medications'.
+</relevance>
+</topic>
+
+<topic>
+<ID>7</ID>
+<title>good psychology syndrome books. </title>
+<explanation>The query is looking to capture the positive comments for psychology syndrome books. 
+</explanation>
+<relevance>
+The expected answers are 4- or 5-star rating reviews in the 'books' division where the category is 'psychology syndrome'. 
+</relevance>
+</topic>
+
+
+
+<topic>
+<ID>8</ID>
+<title>List all the comments in which users were unhappy with their purchased books. </title>
+<explanation> The query is looking to retrieve the negative reviews commented for books.
+</explanation>
+<relevance>
+The expected answers are 1- or 2-star rating reviews in the 'books' division. 
+</relevance>
+</topic>
+
+
+
+<topic>
+<ID>9</ID>
+<title>most effective medicines for cold and flu. </title>
+<explanation> The query is looking to retrieve the most positive reviews commented for cold and flu medicines such as tablets and syrups. 
+These reviews could help to realize how much the medication was effective to user.
+</explanation>
+<relevance>
+The expected answers are 5-star rating reviews in the 'medications' division where the category is 'cold and flu'. These reviews should have been shown to be helpful to at least one other customer. 
+</relevance>
+</topic>
+
+
+<topic>
+<ID>10</ID>
+<title>Are there users who recommend books about eating disorders? </title>
+<explanation> eating disorders are unhealthy relationships with food and weight.
+ patients normally eat too little or too much food.  The query is looking to retrieve the positive reviews commented for books about eating disorders. 
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star rating reviews in the 'books' division where the category is 'eating disorders. 
+These reviews should have been shown to be helpful to at least one other customer.  
+</relevance>
+</topic>
+
+
+<topic>
+<ID>11</ID>
+<title>are the books about cancer very useful to reviewers? </title>
+<explanation> The query is looking to retrieve the most positive reviews commented for books about cancer.
+</explanation>
+<relevance>
+The expected answers are 5-star rating reviews in the 'books' division where the category is 'cancer'. 
+These reviews should have been shown to be helpful to at least one other customer.  
+</relevance>
+</topic>
+
+<topic>
+<ID>12</ID>
+<title>quality of Vitamin D test kits.</title>
+<explanation> The cerascreen Vitamin D test is a sample submission kit for at-home use. The test is used to determine your blood concentration of vitamin D and to monitor the level of 25-OH vitamin D.
+The query is looking to retrieve the reviews commented for Vitamin D test kits.
+</explanation>
+<relevance>
+The expected answers are reviews in the 'diagnostic and monitoring tools' division where the category is 'Vitamin D test kits'. 
+</relevance>
+</topic>
+
+<topic>
+<ID>13</ID>
+<title>recommended lice shampoos which customers found beneficial. </title>
+<explanation The query is looking to retrieve the positive reviews commented for the Lice shampoos.
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star rating reviews in the 'medications' division where the category is 'Lice Shampoo'. 
+</relevance>
+</topic>
+
+<topic>
+<ID>14</ID>
+<title>positive reviews of vitamin D test kits.</title>
+<explanation> The query is looking to retrieve the positive reviews commented for vitamin D test kits.
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star rating reviews in the 'diagnostic and monitoring tools' division where the category is 'vitamin D test kits'. 
+</relevance>
+</topic>
+
+<topic>
+<ID>15</ID>
+<title>very good and influential reviews for shampoos.</title>
+<explanation> The query is looking to retrieve the most positive reviews commented for any of shampoos.
+</explanation>
+<relevance>
+The expected answers are 5-star rating reviews in the 'medications' division where the category is any of the existed medical shampoos. 
+These reviews should have been shown to be helpful to at least one other customer.  
+</relevance>
+</topic>
+
+
+<topic>
+<ID>16</ID>
+<title>signs, drugs and symptoms of depression and anxiety. </title>
+<explanation> The query is looking to retrieve the reviews commented for books about depression and anxiety.
+</explanation>
+<relevance>
+The expected answers are reviews in the 'books' division where the category is 'anxiety and depression'. 
+</relevance>
+</topic>
+
+
+<topic>
+<ID>17</ID>
+<title>are the vitiligo products ineffective to some of reviewers? </title>
+<explanation> Vitiligo is a long-term problem in which growing patches of skin lose their colour.
+ The query is looking to retrieve the negative reviews for vitiligo medicines.
+</explanation>
+<relevance>
+The expected answers are 1 or 2-star rating reviews in the 'medications' division where the category is 'vitiligo '. 
+These reviews should have been shown to be helpful to at least one other customer.  
+</relevance>
+</topic>
+
+
+
+<topic>
+<ID>18</ID>
+<title> satisfied and happy customers of the nicotine therapy products for quitting cigarettes?
+</title>
+<explanation> Nicotine therapy sometimes cause increased blood pressure, Fast heart rate, dizziness, insomnia, and irritability.
+ The query is looking to retrieve the positive reviews from users who purchased quit smoking products.
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star rating reviews in the 'medications' division where the category is 'quit smoking'. 
+</relevance>
+</topic>
+
+<topic>
+<ID>19</ID>
+<title> Critically negative reviews for lice shampoos.</title>
+<explanation> The query is looking to retrieve the most negative reviews written by users who purchased shampoos to get rid of lice.
+</explanation>
+<relevance>
+The expected answers are 1-star rating reviews in the 'medications' division where the category is 'lice shampoo'. 
+These reviews should have been shown to be helpful to at least one other customer.  
+</relevance>
+</topic>
+
+
+<topic>
+<ID>20</ID>
+<title>Why do some customers are happy with books about caffeine addiction and narcissistic personality disorder.</title>
+<explanation> The query is looking to analyse the negative reviews written by users who purchased books about caffeine addition and NPD.
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star rating reviews in the 'books' division where the category is 'caffeine addiction' or 'narcissistic personality disorder'. 
+</relevance>
+</topic>
+
+
+<topic>
+<ID>21</ID>
+<title>why are not some of caffeine addiction books good? </title>
+<explanation> The query is looking to retrieve the negative reviews written by users who purchased books about signs, symptoms, and treatments of caffeine addiction.
+</explanation>
+<relevance>
+The expected answers are 1 or 2 star rating reviews in the 'books' division where the category is 'caffeine addiction'.</relevance>
+</topic>
+
+
+<topic>
+<ID>22</ID>
+<title> Highly negative reviews for books about borderline personality disorder.</title>
+<explanation>Borderline personality disorder (BPD) is a disorder of mood and how a person interacts with others. It's the most commonly recognised personality disorder.
+ The query is looking to retrieve the most negative reviews written by users who purchased books to learn about signs, symptoms and treatments of borderline personality disorder.
+</explanation>
+<relevance>
+The expected answers are 1-star rating reviews in the 'books' division where the category is 'borderline personality disorder'. 
+These reviews should have been shown to be helpful to at least one other user.  
+</relevance>
+</topic>
+
+<topic>
+<ID>23</ID>
+<title>Effective and satisfactory vitamin D test kits and fungus skin creams?</title>
+<explanation> The query is looking to retrieve the positive reviews of vitamin D test kits and fungus skin products.
+</explanation>
+<relevance>
+The expected answers are 4 or 5-star rating reviews in the whole dataset where the category is either 'vitamin D test kits' or 'fungus skin'.   
+</relevance>
+</topic>
+
+<topic>
+<ID>24</ID>
+<title>bad skin products for problems including lice and vitiligo.</title>
+<explanation> The query is looking to retrieve the negative reviews creams for vitiligo and lice treatment.
+</explanation>
+<relevance>
+The expected answers are 1 or 2-star rating reviews in the 'medications' division where the category is either 'vitiligo ' or 'Lice shampoo'.
+</relevance>
+</topic>
+
+<topic>
+<ID>25</ID>
+<title>Customers are disappointed and think Vein Remedies are waste of moneny and do not work. </title>
+<explanation>Varicose veins are swollen and enlarged veins that usually occur on the legs and feet. The query is looking to retrieve 
+the negative reviews of remedies for Varicose veins treatment </explanation>
+<relevance>
+The expected answers are 1 or 2-star rating reviews in the 'medications' division where the category is 'vein remedies. 
+These reviews should have been shown to be helpful to at least one other user.  
+</relevance>
+</topic>
+
+
+
+
+
+
+
